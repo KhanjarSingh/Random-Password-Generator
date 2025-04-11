@@ -22,7 +22,7 @@ Customize your password with ease—define the length and choose whether to incl
 
 ## 🚀 Demo
 
-> Coming soon... (Add link here if hosted on Netlify, Vercel, or GitHub Pages)
+[Password Generator Demo](https://randompasswordgenerator-kappa.vercel.app/)
 
 ---
 
